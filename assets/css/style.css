@@ -63,9 +63,13 @@ ul li {
 }
 
 footer {
+    position: relative;
+    bottom: 0;
     padding: 20px;
     background-color: #666666;
     margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 /*ul li:last-child{
     padding-right: 10px;
