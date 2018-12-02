@@ -14,16 +14,15 @@ header {
     background: #ffffff;
     margin: 0;
     padding: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif
-    
+    font-family: Georgia, 'Times New Roman', Times, serif  
 }
 
 h1 {
     /* float: left; */
-    padding: 20px;
+    padding: 10px;
     background-color: #4aaaa5;
     color: #ffffff;
-    width: 225px;
+    width: 300px;
     text-align: center;
     margin: 0px;  
 }
@@ -66,7 +65,7 @@ ul li {
 footer {
     padding: 20px;
     background-color: #666666;
-    margin: 0px;
+    margin-top: 10px;
 }
 /*ul li:last-child{
     padding-right: 10px;
