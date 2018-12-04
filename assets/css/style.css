@@ -43,6 +43,7 @@ ul {
     text-align: right;
     list-style: none;
     margin-top: -35px;
+    color: #dddddd;
     
 }
 
@@ -50,12 +51,14 @@ ul li {
     display: inline-block;
     padding-left: 10px;
     margin-bottom: 0px;
+    color:  #dddddd;;
 }
 
 #bio{
     background-color: #ffffff;
     overflow: hidden;
     margin-top: 20px;
+    line-height: 150%;
 }
 
 #bio-image {
@@ -76,7 +79,6 @@ footer {
 p {
     margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 20px;;
 }
 
 .nav {
@@ -147,14 +149,13 @@ img {
     height: 150px;
     width: 200px;
     margin: 10px;
-    margin-right: 350px;
+    margin-right: 360px;
 }
 .kevin {
-    float: right;
+    float: left;
     height: 150px;
     width: 200px;
-    margin: 10px;
-    margin-right: 350px;
+    margin: 10px
 }
 .steve {
     float: left;
