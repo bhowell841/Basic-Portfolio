@@ -93,10 +93,12 @@ p {
 
 label {
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 10px; 
+    margin-left: 10px;
+    color: #666666 
 }
 textarea {
     margin: 10px;
+    border-color: #dddddd;
 }
 
 input {
@@ -104,4 +106,59 @@ input {
     margin-bottom: 10px;
     background-color: #4aaaa5;
     color: #ffffff
+}
+
+.images {
+    max-width: 960px;
+    width: 96%;
+    
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    /* object-fit: contain; */
+}
+
+.scratch {
+    float: left;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+}
+
+.study {
+    float: left;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+}
+#studyBanner{
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+.matrix {
+    float: right;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+    margin-right: 350px;
+}
+.kevin {
+    float: right;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+    margin-right: 350px;
+}
+.steve {
+    float: left;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
 }
