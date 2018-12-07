@@ -44,7 +44,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif; 
-    background-image: url(circuit.png);
+    background-image: url(../images/circuit.png);
 }
 
 .wrapper {
@@ -131,17 +131,19 @@ input[type=submit]{
     margin: 10px;
     float: left;
     position: relative;
-    background-image: url(grass.jpg);
+    background-image: url(../images/desk.jpeg);
+    /* background-image: url(../images/grass.jpg); */
+    /* background-image: url(../images/white.jpeg); */
 }
+
 .img-wrap p {
-    background-color: #4aaaa5;
-    color: #ffffff;
     position: absolute;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
     bottom: 15px;
     width: 100%;
-    text-align: center;
     margin: 0;
     line-height: 45px;
     font-size: 30px;
-    
 }
