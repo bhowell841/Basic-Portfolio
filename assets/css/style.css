@@ -131,9 +131,9 @@ input[type=submit]{
     margin: 10px;
     float: left;
     position: relative;
-    background-image: url(../images/desk.jpeg);
+    /* background-image: url(../images/desk.jpeg); */
     /* background-image: url(../images/grass.jpg); */
-    /* background-image: url(../images/white.jpeg); */
+    background-image: url(../images/white.jpeg);
 }
 
 .img-wrap p {
